@@ -1,0 +1,42 @@
+
+
+Here is my codepen link: https://codepen.io/joeytrilambda/pen/NWRorLX
+
+Answers to questions:
+1) Semantic HTML are elements that describe exactly what they are doing, ex. section, aside, header.
+2) HTML are the "walls" of a website, the foundation so to speak.
+3) An attribute specifies a tag and give it additonal properties, we put right in the tag. ex <a href> href being the attribute.
+4) h1 tag is used for the biggest header title, and should only be used once on a page.
+5) Anchor tag <a> and image tag <img>
+6) <!DOCTYPE HTML>
+7) An id gives an element a specific identifier so you can ppinpoint just that specific element.
+8) You can add and id to any element
+9) You should use an id once per page
+10) A class is also a way to give an element a unique way to identify it, and group elements to be identified in groups.
+11) You can add any element to a class
+12) Unlike an id you can use class multiple times
+13) Inside your tag after your link include: target= "_blank"
+14) In case a picture doesn't load you can display text with the alt attribute.
+15) With #
+16) Section is semantical and div isn't. Also section is more defined to a section on a page, while div is generic and used more freely.
+17) CSS is used for the styling of a web page
+18) You can use CSS to target all elements of the same name. ex h2 {whatever you want it editied to}
+19) Class is used for multiple and id is specific to one element. ex would be if you wanted to target all the paragraphs in your page to have something unique you can use class to do so, on the other hand you can us id to target a specific element just once, not multiple ones.
+20) With . followed by the name you gave the class
+21) p. human
+22) A selector that chooses both the parent and the child together
+23) div .sidebar will select everything with class="sidebar"
+24) It give an ellement a certain of being, ex hover creates cetain elements of it when you hover over it
+25) line-height:
+26) letter-spacing:
+27) text-transform: uppercase; lowercsae; capitalize; respectively
+28) Add border: 1px dotted blaack; in css
+29) With *
+30) With /* Comment inside here */, easier with ctrl+/
+31) With pwd
+32) ls
+33) With rm you need to be careful because it doesn't go to the recycle bin, you can't undo it
+34) Helps you keep track of the code and the changes made to it, very useful when working in a team, if a mistake happens can you can go back to a previous version and isolate the issue better.
+35) Everytime you make a change
+36) git push -u origin (whatever your branch name is, in this case our name)
+37) We fork a repo, then clone it to our computer using git clone (then the html of the repo) then we make our own branch of it, which we set in our name for name. After completing or makeing the changes we use commit to save the changes we made, then we push it back up to github, then pull it back down to our computer and lastly we merge our branch to the existing branch.
